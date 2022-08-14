@@ -1,4 +1,5 @@
 # Equacao_segundo_grau
+##Codigo desenvolvido em Python para calcular equações do segundo grau.
 
 import math
 import os
